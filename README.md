@@ -58,6 +58,28 @@ This repository includes IT Altitudes' internally prepared assessment certificat
 
 These certificates describe internal preparation, assessment, and intended uses. They are not independent third-party certifications.
 
+## IT Altitudes — Dataset Certificates
+
+These certificates document IT Altitudes Inc.'s internal
+assessments of dataset preparation, content quality,
+buyer value, and intended uses. They are not independent
+third-party certifications.
+
+### 1. Content Validation Certificate
+![Content Validation Certificate](certificates/content-validation.png)
+
+### 2. Product Value Certificate
+![Product Value Certificate](certificates/product-value.png)
+
+### 3. Data Preparation & Quality Certificate
+![Data Preparation Certificate](certificates/preparation-quality.png)
+
+### 4. Buyer Benefits Certificate
+![Buyer Benefits Certificate](certificates/buyer-benefits.png)
+
+**Explore the complete dataset:**
+[Buy on Gumroad](https://italtitudes.gumroad.com/l/cncut)
+
 ## Source Attribution & Disclaimer
 
 This Geothermal Energy Dataset has been independently cleaned, validated, and documented by IT Altitudes Inc., using publicly accessible data from IRENA/IRENASTAT. IT Altitudes Inc. is not affiliated with or endorsed by IRENA, and all original source rights remain with their respective owners. This disclaimer does not grant commercial redistribution rights or replace any required authorization from IRENA.
