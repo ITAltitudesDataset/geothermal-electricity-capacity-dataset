@@ -1,95 +1,73 @@
-# Geothermal Electricity Capacity Dataset — Buyer Preview
+# Geothermal Energy Dataset | IT Altitudes Inc.
 
-**IT Altitudes Inc. | Country-Level Renewable Energy Data | 2000–2025**
+**11,648 Records | 224 Countries & Areas | 2000–2025**
 
-## Dataset Overview
+Explore global geothermal electricity capacity data in a structured Excel dataset, supported by source documentation, quality assessments, and buyer guidance.
 
-This repository is intended to provide a limited buyer preview of the **IT Altitudes Geothermal Electricity Capacity Dataset**, developed for renewable energy research, electricity capacity analysis, data exploration, and analytical workflows.
+**Full Dataset - Available on Gumroad**
 
-The dataset organizes country-level geothermal electricity capacity information into a structured format suitable for exploration using Excel, Python, or R.
+[View the Complete Dataset on Gumroad](https://italtitudes.gumroad.com/l/cncut)
 
-**Full dataset:** 11,648 records, as documented in the buyer kit.
+## Why Choose This Dataset?
 
-**Preview:** 50 representative records.
+- **Save Preparation Time:** Work with standardized data instead of organizing raw statistical tables yourself.
+- **Global Coverage:** Explore 11,648 country-level records across 224 countries and areas.
+- **26 Years of Historical Coverage:** Review geothermal electricity capacity data from 2000 through 2025.
+- **Research-Friendly Format:** Use the Excel workbook with Excel, Python, R, or Power BI.
+- **Quality Documentation:** Includes source mapping, methodology, data dictionary, and quality assessments.
+- **Transparent Data:** Capacity values are included where reported; unavailable measurements remain blank.
 
-## Free Buyer Preview
+## Who Is This Dataset Ideal For?
 
-The planned preview workbook includes:
-
-- 50 representative country-level records
-- Geothermal electricity capacity information
-- Year and country identifiers
-- Resource type and grid connection fields
-- Data dictionary and field descriptions
-- Quality and missing-value disclosures
-- Source attribution and important limitations
-
-The preview is intended to help prospective buyers understand the structure and documentation before considering the full commercial package.
-
-**Preview availability:** Pending redistribution-rights verification.
-
-## Dataset Fields
-
-| Field | Description |
+| Audience | Potential Benefits |
 |---|---|
-| Country | Country associated with the observation |
-| ResourceType | Geothermal resource classification |
-| GridConnection | Grid connection category |
-| Year | Observation year |
-| CapacityMW | Reported electricity capacity in megawatts |
+| Researchers & Academics | Geothermal energy studies, historical analysis, and academic research |
+| Renewable Energy Companies | Country comparisons and preliminary market research |
+| Government & Policy Analysts | Renewable energy planning and historical reporting |
+| Consultants & Data Analysts | Benchmarking, visualization, and analytical reporting |
+| Investors & Developers | Initial geographic screening and market research |
+| Students & Educators | Renewable energy projects, teaching, and data analysis exercises |
 
-## Potential Use Cases
+## What Is Included in the Full Buyer Kit?
 
-- Renewable energy research
-- Geothermal electricity capacity analysis
-- Historical energy trend exploration
-- Country-level energy data comparisons
-- Data visualization and reporting
-- Academic and educational research
-- Data engineering and analytical testing
+- Complete geothermal electricity capacity dataset
+- Data Dictionary
+- Source-to-Final Mapping
+- Methodology and Preparation Notes
+- Source Provenance
+- Quality Summary and Validation Documentation
+- Buyer Use Cases
+- Limitations and Data Availability Notes
+- License and Usage Terms
+- Product Summary
 
-## Full Dataset Package
+## Free 50-Row Preview
 
-The complete IT Altitudes buyer package is intended to provide broader data coverage and supporting documentation, including field definitions, methodology, quality information, source attribution, and usage limitations.
+Explore the sample Excel workbook provided in this repository to understand the dataset's structure, fields, and documentation.
 
-### Get the Complete Dataset on Gumroad
+The sample is curated and is not representative of the complete dataset's missing-value distribution.
 
-**Product status:** Awaiting launch and distribution-rights verification.
+## IT Altitudes Quality & Value Documentation
 
-The official Gumroad purchase link will be added here once the product is approved and published.
+This repository includes IT Altitudes' internally prepared assessment certificates covering:
 
-## Source Attribution & Liability Disclaimer
+- Content Validation
+- Product Value and Quality Assessment
+- Data Preparation Effort and Quality
+- Buyer Benefits and Target Audiences
+
+These certificates describe internal preparation, assessment, and intended uses. They are not independent third-party certifications.
+
+## Source Attribution & Disclaimer
 
 This Geothermal Energy Dataset has been independently cleaned, validated, and documented by IT Altitudes Inc., using publicly accessible data from IRENA/IRENASTAT. IT Altitudes Inc. is not affiliated with or endorsed by IRENA, and all original source rights remain with their respective owners. This disclaimer does not grant commercial redistribution rights or replace any required authorization from IRENA.
 
-## Data Quality & Limitations
+This is a historical reference dataset. Some capacity measurements are unavailable in the original source and are retained as blanks.
 
-- The dataset is based on a historical source snapshot and is not a live energy reporting service.
-- Some observations may contain missing capacity measurements.
-- Missing measurements should not automatically be interpreted as zero capacity.
-- Users should independently verify source information before making investment, operational, regulatory, or other high-stakes decisions.
-- The preview does not represent the complete dataset or guarantee that its data completeness reflects the full package.
+## Get the Complete Dataset
 
-## License & Usage
+**[View Geothermal Energy Dataset on Gumroad](https://italtitudes.gumroad.com/l/cncut)**
 
-This repository is being prepared as a limited dataset preview.
+Prepared by **IT Altitudes Inc.**
 
-Public distribution and commercial redistribution remain subject to confirmation of the applicable source rights and licensing requirements.
-
-The source attribution and liability disclaimer do not independently authorize redistribution or commercial use.
-
-## Provider Information
-
-**Company:** IT Altitudes Inc.
-
-**Dataset:** Geothermal Electricity Capacity Dataset
-
-**Coverage:** 2000–2025
-
-**Source:** IRENA / IRENASTAT
-
-**Contact:** support@italtitudesdataset.zohodesk.in
-
----
-
-**Note:** This repository is currently maintained privately while the preview, product documentation, and redistribution-rights assessment are being finalized.
+For product inquiries: support@italtitudesdataset.zohodesk.in
