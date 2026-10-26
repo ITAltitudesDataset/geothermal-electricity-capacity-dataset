@@ -61,24 +61,22 @@ These certificates describe internal preparation, assessment, and intended uses.
 ## IT Altitudes — Dataset Certificates
 
 These certificates document IT Altitudes Inc.'s internal
-assessments of dataset preparation, content quality,
-buyer value, and intended uses. They are not independent
-third-party certifications.
+assessments and are not independent third-party certifications.
 
 ### 1. Content Validation Certificate
-![Content Validation Certificate](certificates/content-validation.png)
+![Content Validation Certificate](certificates/Geothermal%20Energy%20Data%20Validation%20Certificate.png)
 
 ### 2. Product Value Certificate
-![Product Value Certificate](certificates/product-value.png)
+![Product Value Certificate](certificates/Geothermal%20Energy%20Value%20Certificate.png)
 
 ### 3. Data Preparation & Quality Certificate
-![Data Preparation Certificate](certificates/preparation-quality.png)
+![Data Preparation Certificate](certificates/Geothermal%20Energy%20Data-Prep%20Certificate.png)
 
 ### 4. Buyer Benefits Certificate
-![Buyer Benefits Certificate](certificates/buyer-benefits.png)
+![Buyer Benefits Certificate](certificates/Geothermal%20Energy%20Buyer%20Benefits%20Certificate.png)
 
-**Explore the complete dataset:**
-[Buy on Gumroad](https://italtitudes.gumroad.com/l/cncut)
+### View the Full Dataset
+[Explore on Gumroad](https://italtitudes.gumroad.com/l/cncut)
 
 ## Source Attribution & Disclaimer
 
