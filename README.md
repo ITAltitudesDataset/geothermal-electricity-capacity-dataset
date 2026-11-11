@@ -91,12 +91,13 @@ This is a historical reference dataset. Some capacity measurements are unavailab
 Prepared by **IT Altitudes Inc.**
 
 For product inquiries: support@italtitudesdataset.zohodesk.in
-
 ## Explore More Datasets from IT Altitudes Inc.
+
+Discover our other curated datasets, with free previews and documentation:
 
 - [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
 - [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
 - [US Area Codes & Geographic Reference](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview)
-- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+- [Global Tariff Realignment](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview)
 
 **[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
