@@ -125,6 +125,17 @@ Prepared by **IT Altitudes Inc.**
 
 For product inquiries: support@italtitudesdataset.zohodesk.in
 
+---
+
+## License, Source Rights & Disclaimer
+
+- [Preview Documentation Usage Terms](LICENSE.md)
+- [Source Attribution & Liability Disclaimer](DISCLAIMER.md)
+
+**Important:** This dataset references IRENA/IRENASTAT information. Source-derived data is subject to applicable IRENA licensing and redistribution requirements. IT Altitudes' documentation usage terms do not grant commercial redistribution rights over IRENA data.
+
+This dataset is a static research reference and should not be treated as live operational data.
+
 ## Explore More Datasets from IT Altitudes Inc.
 
 Discover our other curated datasets, with free previews and documentation:
