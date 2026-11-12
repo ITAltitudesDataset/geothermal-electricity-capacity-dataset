@@ -1,0 +1,352 @@
+[
+  {
+    "Country": "Argentina",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2008,
+    "CapacityMW": 0.6
+  },
+  {
+    "Country": "Australia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 0.1
+  },
+  {
+    "Country": "Austria",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 0.25
+  },
+  {
+    "Country": "Chile",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 83.58
+  },
+  {
+    "Country": "China",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 25.75
+  },
+  {
+    "Country": "Chinese Taipei",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 7.49
+  },
+  {
+    "Country": "Costa Rica",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 262.66
+  },
+  {
+    "Country": "Croatia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 10
+  },
+  {
+    "Country": "El Salvador",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 209.4
+  },
+  {
+    "Country": "Ethiopia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 7.3
+  },
+  {
+    "Country": "France",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 16.15
+  },
+  {
+    "Country": "Germany",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 77.55
+  },
+  {
+    "Country": "Guadeloupe",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 14.5
+  },
+  {
+    "Country": "Guatemala",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 49.2
+  },
+  {
+    "Country": "Honduras",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 40
+  },
+  {
+    "Country": "Hungary",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 3
+  },
+  {
+    "Country": "Iceland",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 787.58
+  },
+  {
+    "Country": "Indonesia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 2743.76
+  },
+  {
+    "Country": "Italy",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 771.79
+  },
+  {
+    "Country": "Japan",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 468.91
+  },
+  {
+    "Country": "Kenya",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 925.42
+  },
+  {
+    "Country": "Mexico",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 998.5
+  },
+  {
+    "Country": "New Zealand",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 1283
+  },
+  {
+    "Country": "Nicaragua",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 165.44
+  },
+  {
+    "Country": "Papua N Guin",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OffGrid",
+    "Year": 2025,
+    "CapacityMW": 51
+  },
+  {
+    "Country": "Philippines",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 2057.4
+  },
+  {
+    "Country": "Portugal",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 29.1
+  },
+  {
+    "Country": "Romania",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2021,
+    "CapacityMW": 0.05
+  },
+  {
+    "Country": "Russian Fed",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 81.4
+  },
+  {
+    "Country": "Thailand",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 0.3
+  },
+  {
+    "Country": "Türkiye",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 1757.51
+  },
+  {
+    "Country": "USA",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2025,
+    "CapacityMW": 2695.5
+  },
+  {
+    "Country": "Argentina",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 0.6
+  },
+  {
+    "Country": "Australia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 0.2
+  },
+  {
+    "Country": "China",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 21.65
+  },
+  {
+    "Country": "Costa Rica",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 144.71
+  },
+  {
+    "Country": "El Salvador",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 161.24
+  },
+  {
+    "Country": "Ethiopia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 7.3
+  },
+  {
+    "Country": "Guadeloupe",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 4
+  },
+  {
+    "Country": "Guatemala",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": 29
+  },
+  {
+    "Country": "Afghanistan",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Albania",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Algeria",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Amer Samoa",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Andorra",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Angola",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Anguilla",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Antigua Barb",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Armenia",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  },
+  {
+    "Country": "Aruba",
+    "ResourceType": "Geothermal",
+    "GridConnection": "OnGrid",
+    "Year": 2000,
+    "CapacityMW": null
+  }
+]

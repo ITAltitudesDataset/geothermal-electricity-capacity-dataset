@@ -1,0 +1,51 @@
+﻿Country,ResourceType,GridConnection,Year,CapacityMW
+Argentina,Geothermal,OnGrid,2008,0.6
+Australia,Geothermal,OnGrid,2025,0.1
+Austria,Geothermal,OnGrid,2025,0.25
+Chile,Geothermal,OnGrid,2025,83.58
+China,Geothermal,OnGrid,2025,25.75
+Chinese Taipei,Geothermal,OnGrid,2025,7.49
+Costa Rica,Geothermal,OnGrid,2025,262.66
+Croatia,Geothermal,OnGrid,2025,10
+El Salvador,Geothermal,OnGrid,2025,209.4
+Ethiopia,Geothermal,OnGrid,2025,7.3
+France,Geothermal,OnGrid,2025,16.15
+Germany,Geothermal,OnGrid,2025,77.55
+Guadeloupe,Geothermal,OnGrid,2025,14.5
+Guatemala,Geothermal,OnGrid,2025,49.2
+Honduras,Geothermal,OnGrid,2025,40
+Hungary,Geothermal,OnGrid,2025,3
+Iceland,Geothermal,OnGrid,2025,787.58
+Indonesia,Geothermal,OnGrid,2025,2743.76
+Italy,Geothermal,OnGrid,2025,771.79
+Japan,Geothermal,OnGrid,2025,468.91
+Kenya,Geothermal,OnGrid,2025,925.42
+Mexico,Geothermal,OnGrid,2025,998.5
+New Zealand,Geothermal,OnGrid,2025,1283
+Nicaragua,Geothermal,OnGrid,2025,165.44
+Papua N Guin,Geothermal,OffGrid,2025,51
+Philippines,Geothermal,OnGrid,2025,2057.4
+Portugal,Geothermal,OnGrid,2025,29.1
+Romania,Geothermal,OnGrid,2021,0.05
+Russian Fed,Geothermal,OnGrid,2025,81.4
+Thailand,Geothermal,OnGrid,2025,0.3
+Türkiye,Geothermal,OnGrid,2025,1757.51
+USA,Geothermal,OnGrid,2025,2695.5
+Argentina,Geothermal,OnGrid,2000,0.6
+Australia,Geothermal,OnGrid,2000,0.2
+China,Geothermal,OnGrid,2000,21.65
+Costa Rica,Geothermal,OnGrid,2000,144.71
+El Salvador,Geothermal,OnGrid,2000,161.24
+Ethiopia,Geothermal,OnGrid,2000,7.3
+Guadeloupe,Geothermal,OnGrid,2000,4
+Guatemala,Geothermal,OnGrid,2000,29
+Afghanistan,Geothermal,OnGrid,2000,
+Albania,Geothermal,OnGrid,2000,
+Algeria,Geothermal,OnGrid,2000,
+Amer Samoa,Geothermal,OnGrid,2000,
+Andorra,Geothermal,OnGrid,2000,
+Angola,Geothermal,OnGrid,2000,
+Anguilla,Geothermal,OnGrid,2000,
+Antigua Barb,Geothermal,OnGrid,2000,
+Armenia,Geothermal,OnGrid,2000,
+Aruba,Geothermal,OnGrid,2000,
