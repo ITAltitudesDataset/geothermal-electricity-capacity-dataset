@@ -1,14 +1,15 @@
+
 # Geothermal Energy Dataset | IT Altitudes Inc.
 
 **11,648 Records | 224 Countries & Areas | 2000–2025**
 
 Explore global geothermal electricity capacity data in a structured, research-friendly dataset, supported by source documentation, quality assessments, and buyer guidance.
 
-**Available Preview Formats: Excel (.xlsx) | CSV (.csv) | JSON (.json)**
+**Preview Formats: Excel (.xlsx) | CSV (.csv) | JSON (.json)**
 
-**Full Dataset — View on Gumroad**
+**Dataset Status: Commercial distribution subject to confirmation of applicable IRENA/IRENASTAT permissions.**
 
-[View the Complete Dataset on Gumroad](https://italtitudes.gumroad.com/l/cncut)
+[View Dataset Information on Gumroad](https://italtitudes.gumroad.com/l/cncut)
 
 ---
 
@@ -17,7 +18,7 @@ Explore global geothermal electricity capacity data in a structured, research-fr
 - **Save Preparation Time:** Work with standardized data instead of organizing raw statistical tables yourself.
 - **Global Coverage:** Explore 11,648 country-level records across 224 countries and areas.
 - **26 Years of Historical Coverage:** Review geothermal electricity capacity data from 2000 through 2025.
-- **Flexible Data Formats:** Explore the free preview using Excel, CSV, or JSON, depending on your workflow.
+- **Flexible Data Formats:** Explore the preview structure using Excel, CSV, or JSON, subject to applicable source permissions.
 - **Research-Friendly:** Suitable for Excel, Python, R, Power BI, and other analytical environments.
 - **Quality Documentation:** Includes source mapping, methodology, data dictionary, and quality assessments.
 - **Transparent Data:** Capacity values are included where reported; unavailable measurements remain blank.
@@ -32,6 +33,138 @@ Explore global geothermal electricity capacity data in a structured, research-fr
 | Consultants & Data Analysts | Benchmarking, visualization, and analytical reporting |
 | Investors & Developers | Initial geographic screening and market research |
 | Students & Educators | Renewable energy projects, teaching, and data analysis exercises |
+
+## Business Use Cases
+
+The **Geothermal Energy Dataset** supports historical research and analytical applications across renewable energy, electricity infrastructure, sustainability research, energy policy, and data engineering.
+
+Its country-level observations from 2000–2025 can help researchers explore reported geothermal electricity capacity, identify historical patterns, and develop analytical models.
+
+The following applications are illustrative and depend on the available fields, completeness, and permitted uses of the underlying source information.
+
+### 1. Global Geothermal Energy Market Research
+
+**Ideal for:** Renewable energy analysts, market research firms, and energy consultants.
+
+**Business Applications:**
+
+- Examine reported geothermal electricity capacity across countries and areas.
+- Compare historical capacity observations between selected markets.
+- Identify countries with reported geothermal electricity capacity.
+- Prepare descriptive geothermal energy market research reports.
+- Explore geographic differences in historical geothermal development.
+
+**Potential Buyer Value:** Reduce manual preparation of country-level geothermal reference information and support structured renewable energy market research.
+
+### 2. Renewable Energy Capacity Trend Analysis
+
+**Ideal for:** Energy researchers, sustainability analysts, and academic institutions.
+
+**Business Applications:**
+
+- Analyze reported geothermal electricity capacity from 2000 through 2025.
+- Study year-over-year changes where comparable observations are available.
+- Compare historical geothermal capacity trends across selected countries.
+- Create time-series charts and research summaries.
+- Explore long-term changes in reported geothermal electricity infrastructure.
+
+**Potential Buyer Value:** Support historical renewable energy trend analysis using organized country-year reference records.
+
+**Important:** Missing measurements should not automatically be interpreted as zero installed capacity.
+
+### 3. Energy Policy & Sustainability Research
+
+**Ideal for:** Government policy researchers, energy economists, and sustainability consultants.
+
+**Business Applications:**
+
+- Examine historical geothermal electricity capacity across jurisdictions.
+- Support descriptive renewable energy policy research.
+- Compare available country-level geothermal capacity observations.
+- Develop educational reports on renewable electricity infrastructure.
+- Explore historical geothermal development alongside separately sourced policy information.
+
+**Potential Buyer Value:** Provide structured reference information for renewable energy policy research and sustainability analysis.
+
+**Important:** The dataset does not independently establish the effectiveness of any particular government policy.
+
+### 4. Renewable Energy Investment & Market Screening Research
+
+**Ideal for:** Renewable energy investment researchers, infrastructure consultants, and project development analysts.
+
+**Business Applications:**
+
+- Identify countries with historical geothermal electricity capacity observations.
+- Compare reported capacity levels across selected geographic markets.
+- Prepare preliminary renewable energy market screening reports.
+- Support exploratory research into geothermal electricity development.
+- Identify potential markets requiring additional technical and commercial investigation.
+
+**Potential Buyer Value:** Help organize historical geothermal capacity information for early-stage market research.
+
+**Important:** Historical installed capacity alone does not establish project feasibility, resource potential, profitability, investment suitability, or current market opportunity.
+
+### 5. Energy Business Intelligence & Data Visualization
+
+**Ideal for:** Business intelligence teams, energy data analysts, and dashboard developers.
+
+**Business Applications:**
+
+- Create historical geothermal capacity dashboards.
+- Visualize reported capacity by country and year.
+- Prepare comparative country-level charts.
+- Develop analytical reports using Excel, Python, R, or Power BI.
+- Explore available data by resource type and grid connection classification.
+
+**Potential Buyer Value:** Simplify preparation of geothermal reference data for exploratory dashboards and research visualizations.
+
+### 6. Renewable Energy Data Engineering & ETL Development
+
+**Ideal for:** Data engineers, database developers, and analytics teams.
+
+**Business Applications:**
+
+- Test ingestion of structured energy reference records.
+- Practice cleaning and transforming country-year datasets.
+- Develop missing-value handling and data validation workflows.
+- Prototype historical time-series data processing.
+- Build non-production analytical pipelines using permitted reference data.
+- Evaluate schema consistency across available data fields.
+
+**Potential Buyer Value:** Support development and testing of analytical data workflows involving historical energy statistics.
+
+### 7. Academic Research & Renewable Energy Education
+
+**Ideal for:** Universities, research institutions, students, and educators.
+
+**Business Applications:**
+
+- Study historical geothermal electricity capacity patterns.
+- Compare available country-level observations.
+- Practice statistical analysis and time-series visualization.
+- Develop educational exercises involving renewable energy data.
+- Support academic research into global renewable electricity development.
+
+**Potential Buyer Value:** Provide a structured framework for educational analysis of historical geothermal capacity information.
+
+### Why Consider the Complete Dataset?
+
+The prepared dataset is designed to offer:
+
+- **11,648 reference records** across 224 countries and areas.
+- **Historical coverage from 2000 through 2025.**
+- **Structured data fields** for country, resource type, grid connection, year, and capacity.
+- **Supporting documentation** describing methodology, provenance, and limitations.
+- **Quality assessments** covering internal preparation and data review.
+- **Analytical compatibility** with common spreadsheet and programming tools.
+
+**[View Geothermal Dataset Information](https://italtitudes.gumroad.com/l/cncut)**
+
+*Commercial distribution, including the full dataset and any source-derived preview files, remains subject to applicable IRENA/IRENASTAT permissions.*
+
+*These use cases are illustrative. The dataset is a static historical reference and is not a live electricity generation, forecasting, investment, or operational monitoring service.*
+
+---
 
 ## What Is Included in the Full Buyer Kit?
 
@@ -48,15 +181,17 @@ Explore global geothermal electricity capacity data in a structured, research-fr
 
 ## Free 50-Row Buyer Preview — Excel, CSV & JSON
 
-Explore the free 50-record preview to evaluate the dataset's structure, fields, and suitability for your research or analytics workflow.
+A prepared 50-record preview is intended to help users evaluate the dataset's structure, fields, and suitability for research or analytical workflows.
 
-### Download Preview Files
+**Distribution of source-derived preview files requires confirmation of applicable permissions.**
 
-| Format | Best For | Download |
+### Preview File References
+
+| Format | Best For | File Reference |
 |---|---|---|
-| Excel (.xlsx) | Spreadsheet exploration and review of supporting documentation | [View Excel Preview](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset) |
-| CSV (.csv) | Python, R, SQL, Power BI, and data processing | [Download CSV Preview](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset/raw/refs/heads/main/Geothermal_50_Row_Buyer_Preview.csv) |
-| JSON (.json) | Application development, structured data workflows, and integration testing | [Download JSON Preview](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset/raw/refs/heads/main/Geothermal_50_Row_Buyer_Preview.json) |
+| Excel (.xlsx) | Spreadsheet exploration and review of supporting documentation | [View Repository](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset) |
+| CSV (.csv) | Python, R, SQL, Power BI, and data processing | [CSV Preview File](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset/raw/refs/heads/main/Geothermal_50_Row_Buyer_Preview.csv) |
+| JSON (.json) | Application development, structured data workflows, and integration testing | [JSON Preview File](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset/raw/refs/heads/main/Geothermal_50_Row_Buyer_Preview.json) |
 
 **Preview Details**
 
@@ -70,7 +205,7 @@ The CSV and JSON previews are derived from the same 50-row Excel sample workshee
 
 The sample is curated and is not representative of the complete dataset's missing-value distribution.
 
-*These links are intended for use once the files have been uploaded and the applicable redistribution rights confirmed.*
+*These file references should only be made publicly downloadable after the applicable redistribution rights have been confirmed.*
 
 ## IT Altitudes Quality & Value Documentation
 
@@ -105,7 +240,7 @@ These certificates document IT Altitudes Inc.'s internal assessments and are not
 
 ### View the Full Dataset
 
-[Explore on Gumroad](https://italtitudes.gumroad.com/l/cncut)
+[View Dataset Information on Gumroad](https://italtitudes.gumroad.com/l/cncut)
 
 ## Source Attribution & Disclaimer
 
@@ -119,7 +254,9 @@ This is a historical reference dataset. Some capacity measurements are unavailab
 
 ## Get the Complete Dataset
 
-**[View Geothermal Energy Dataset on Gumroad](https://italtitudes.gumroad.com/l/cncut)**
+**[View Geothermal Energy Dataset Information on Gumroad](https://italtitudes.gumroad.com/l/cncut)**
+
+*Commercial availability is subject to confirmation of applicable source redistribution permissions.*
 
 Prepared by **IT Altitudes Inc.**
 
