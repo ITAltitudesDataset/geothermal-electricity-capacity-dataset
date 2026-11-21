@@ -147,6 +147,22 @@ The following applications are illustrative and depend on the available fields, 
 
 **Potential Buyer Value:** Provide a structured framework for educational analysis of historical geothermal capacity information.
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![Geothermal Dataset Preview](geothermal_preview_screenshot.png)
+
+### Grid Connection Distribution
+
+![Geothermal Grid Connection Chart](geothermal_grid_connection_chart.png)
+
+Explore the free 50-row sample to understand country-level geothermal electricity capacity records, grid connection categories, historical years, and reported capacity values.
+
+**Note:** Visualizations represent the curated preview sample, not the distribution of the complete dataset.
+
+For dataset documentation, source information, and quality limitations, see [Data Quality Report](DATA_QUALITY_REPORT.md).
+
 ### Why Consider the Complete Dataset?
 
 The prepared dataset is designed to offer:
