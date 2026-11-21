@@ -1,0 +1,41 @@
+Country,Year,GridConnection,CapacityMW,AnomalyFlag,AnomalyScore
+Indonesia,2025,OnGrid,2743.76,Flagged,-0.0415
+USA,2025,OnGrid,2695.5,Flagged,-0.03302
+Philippines,2025,OnGrid,2057.4,Flagged,-0.00347
+Türkiye,2025,OnGrid,1757.51,Not flagged,0.01541
+New Zealand,2025,OnGrid,1283.0,Not flagged,0.04283
+Mexico,2025,OnGrid,998.5,Not flagged,0.08188
+Kenya,2025,OnGrid,925.42,Not flagged,0.08595
+Iceland,2025,OnGrid,787.58,Not flagged,0.08818
+Italy,2025,OnGrid,771.79,Not flagged,0.08579
+Japan,2025,OnGrid,468.91,Not flagged,0.01843
+Costa Rica,2025,OnGrid,262.66,Not flagged,0.05378
+El Salvador,2025,OnGrid,209.4,Not flagged,0.08184
+Nicaragua,2025,OnGrid,165.44,Not flagged,0.11166
+El Salvador,2000,OnGrid,161.24,Not flagged,0.11428
+Costa Rica,2000,OnGrid,144.71,Not flagged,0.08826
+Chile,2025,OnGrid,83.58,Not flagged,0.10779
+Russian Fed,2025,OnGrid,81.4,Not flagged,0.12227
+Germany,2025,OnGrid,77.55,Not flagged,0.10478
+Papua N Guin,2025,OffGrid,51.0,Not flagged,0.10227
+Guatemala,2025,OnGrid,49.2,Not flagged,0.10505
+Honduras,2025,OnGrid,40.0,Not flagged,0.0922
+Portugal,2025,OnGrid,29.1,Not flagged,0.12075
+Guatemala,2000,OnGrid,29.0,Not flagged,0.12123
+China,2025,OnGrid,25.75,Not flagged,0.09898
+China,2000,OnGrid,21.65,Not flagged,0.08201
+France,2025,OnGrid,16.15,Not flagged,0.08616
+Guadeloupe,2025,OnGrid,14.5,Not flagged,0.07873
+Croatia,2025,OnGrid,10.0,Not flagged,0.06267
+Chinese Taipei,2025,OnGrid,7.49,Not flagged,0.09304
+Ethiopia,2000,OnGrid,7.3,Not flagged,0.11246
+Ethiopia,2025,OnGrid,7.3,Not flagged,0.11246
+Guadeloupe,2000,OnGrid,4.0,Not flagged,0.02285
+Hungary,2025,OnGrid,3.0,Not flagged,0.00039
+Argentina,2000,OnGrid,0.6,Not flagged,0.02453
+Argentina,2008,OnGrid,0.6,Not flagged,0.02453
+Thailand,2025,OnGrid,0.3,Not flagged,0.04188
+Austria,2025,OnGrid,0.25,Not flagged,0.06849
+Australia,2000,OnGrid,0.2,Not flagged,0.05441
+Australia,2025,OnGrid,0.1,Not flagged,0.02331
+Romania,2021,OnGrid,0.05,Flagged,-0.0147
