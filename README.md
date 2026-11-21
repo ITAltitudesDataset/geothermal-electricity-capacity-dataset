@@ -163,6 +163,18 @@ Explore the free 50-row sample to understand country-level geothermal electricit
 
 For dataset documentation, source information, and quality limitations, see [Data Quality Report](DATA_QUALITY_REPORT.md).
 
+## Machine Learning Demonstration
+
+Explore our reproducible Python machine learning example using the Geothermal Electricity Capacity preview.
+
+The demonstration uses an Isolation Forest model to identify statistically unusual capacity observations within the sample.
+
+**[View Geothermal ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![Geothermal ML Analysis](ml_demo/geothermal_ml_chart.png)
+
+*This is an educational ML demonstration, not a production-ready model or a validated assessment of data errors.*
+
 ### Why Consider the Complete Dataset?
 
 The prepared dataset is designed to offer:
